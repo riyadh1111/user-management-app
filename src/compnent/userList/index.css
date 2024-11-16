@@ -14,16 +14,21 @@
     .tableTop{
       overflow-y: scroll;
       max-height: 600px;
+      overflow-x: auto;
     }
-    .table {
+    /* .table {
       table-layout: fixed; 
       font-size: 12px;
     }
-    th, td {
+    
+     th, td {
       word-wrap: break-word; 
-    }
+    } 
+
     th:first-child, td:first-child {
       width: 10%; 
-    }
+    }  */
+
+    
   }
   
